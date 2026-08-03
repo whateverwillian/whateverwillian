@@ -1,4 +1,4 @@
-<img align="center" width="400" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
+<img align="center" width="100%" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif">
 
 # Hi there! 👋 I'm Willian Tavares
 
