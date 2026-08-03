@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm Willian Tavares
 
-### Software Engineer | AI Software Engineering | Distributed Systems | TypeScript | React | Cloud
+### Software Engineer & AI Software Engineering
 
 I'm a Software Engineer with 5+ years of experience building scalable SaaS platforms and AI-powered products.
 
