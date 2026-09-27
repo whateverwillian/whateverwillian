@@ -1,103 +1,116 @@
-## Hi there! 👋 I'm Willian Tavares
+# Hi, I'm Willian Tavares 👋
 
-### Software Engineer building AI-powered products with LLMs, Distributed Systems and Cloud.
+### Software Engineer | Backend | Python & Node.js
 
-Software Engineer with **5+ years of experience** building scalable SaaS platforms, distributed systems and AI-powered products.
+Software Engineer with **5+ years of experience** building backend systems, distributed applications, integrations, and AI-powered products.
 
-Currently focused on **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI Agents**, **Software Architecture** and **Google Cloud Platform**.
+My work has involved **Python, Node.js, TypeScript, REST APIs, microservices, asynchronous processing, databases, cloud infrastructure, and system design**.
 
-My experience includes developing AI products used by **2M+ users**, designing distributed systems, integrating multiple LLM providers and building production-ready cloud applications. 
+I have worked on systems serving **2M+ users** and platforms managing **R$10M+ in monthly advertising spend**, as well as AI applications integrating multiple LLM providers.
 
-### 🚀 Featured Experience
+---
 
-#### 🤖 AI Platform *(Professional Experience)*
+## 🧑‍💻 Professional Experience
 
-Worked on one of the leading AI platforms in the market, serving **2M+ users**.
+### AI Platform
 
-**Highlights**
+Software Engineer working on an AI platform serving **2M+ users**.
 
-- Integrated multiple LLM providers including **OpenAI, Gemini, Grok and DeepSeek**
-- Built Retrieval-Augmented Generation (RAG) memory systems
-- Optimized context management and inference costs
-- Developed AI Agents marketplace infrastructure
-- Led frontend modernization from Blade to React
-- Designed zero-downtime database migrations
-- Optimized SQL queries over multi-million record databases
-- Built E2E testing pipelines with Cypress and GitHub Actions
-- Evolved cloud infrastructure on Google Cloud Platform
+- Designed and implemented a **RAG-based memory system** from scratch
+- Built integrations with **OpenAI, Gemini, Grok, and DeepSeek**
+- Designed multi-provider AI architectures and abstractions
+- Optimized SQL queries operating on **6M+ records**
+- Reduced conversation context size by **40%** while maintaining relevance
+- Designed and executed a high-risk **Stripe account migration** with a generic payment gateway abstraction
+- Led the technical direction of a **Blade/JavaScript → React + Jotai** migration
+- Developed an **AI Agent marketplace** with monetization and Stripe integration
+- Built automated testing workflows with **Cypress and GitHub Actions**
 
-**Stack**
+### Marketing Automation Platform
 
-`TypeScript` • `PHP` • `Laravel` • `React` • `SQL` • `Redis` • `Docker` • `Google Cloud` • `OpenAI` • `Gemini` • `RAG`
+Software Engineer working on backend systems and distributed applications for enterprise marketing automation.
 
-#### 📊 Marketing Automation Platform *(Professional Experience)*
+- Architected an **asynchronous reporting engine** using Node.js/NestJS, BullMQ, Redis and MongoDB
+- Designed dependency-aware parallel processing for large-scale reporting workloads
+- Built microservices integrating **Google Ads, Meta Ads, and VTEX**
+- Designed adapter-based architectures for integrating different client data sources
+- Developed automated optimization workflows using **Python and Celery**
+- Migrated **10+ services** from AWS/Kubernetes-based infrastructure to **GCP and Cloud Run**
+- Redesigned deployments across multiple services and environments using **Terraform**
+- Worked on systems managing **R$10M+ in monthly advertising spend**
 
-Built enterprise marketing automation systems responsible for managing **R$10M+ monthly advertising budgets**.
+---
 
-**Highlights**
+## 🏗️ Areas of Interest
 
-- Developed microservices with NestJS, Django and Spring Boot
-- Built asynchronous processing engines
-- Designed ETL pipelines and real-time data aggregation
-- Migrated infrastructure to Google Cloud using Terraform
-- Participated in architecture and distributed system design
-- Integrated Google Ads, Meta Ads and VTEX
-
-**Stack**
-
-`TypeScript` • `Python` • `NestJS` • `Spring Boot` • `Django` • `MongoDB` • `Redis` • `BullMQ` • `Terraform` • `Google Cloud`
-
-### 🎯 Current Focus
-
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
+- Backend Engineering
 - Distributed Systems
 - Software Architecture
-- Cloud Engineering
-- Developer Experience
+- Asynchronous Processing
+- APIs & Microservices
+- Databases & Data Pipelines
+- Cloud Infrastructure
+- Generative AI
+- Large Language Models
+- Retrieval-Augmented Generation
+- AI Agents
 
-### 🛠 Tech Stack
+---
 
-#### Languages
+## 🛠️ Technologies
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+### Languages
 
-#### Frameworks
+`Python` · `TypeScript` · `JavaScript` · `PHP` · `SQL`
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+### Backend
 
-#### AI
+`Node.js` · `NestJS` · `FastAPI` · `Django` · `Laravel` · `REST APIs`
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google)
-![RAG](https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-6C63FF?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/Large_Language_Models-111827?style=for-the-badge)
+### Architecture & Distributed Systems
 
-#### Cloud & DevOps
+`Microservices` · `Distributed Systems` · `Asynchronous Processing` · `Message Queues` · `System Design`
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+### Databases & Data
 
-#### Databases
+`PostgreSQL` · `MySQL` · `MongoDB` · `Redis` · `BigQuery` · `ETL` · `Data Pipelines`
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+### Cloud & Infrastructure
 
-### 📫 Connect with me
+`Google Cloud` · `AWS` · `Docker` · `Cloud Run` · `Terraform` · `GitHub Actions` · `CI/CD`
+
+### Messaging
+
+`BullMQ` · `Redis` · `Kafka`
+
+### AI
+
+`LLMs` · `RAG` · `AI Agents` · `Embeddings` · `OpenAI` · `Gemini`
+
+### Testing & Observability
+
+`Unit Testing` · `E2E Testing` · `Cypress` · `Sentry` · `Observability`
+
+---
+
+## 📚 Currently Exploring
+
+- Distributed systems and messaging patterns
+- Message brokers and event streaming
+- Kafka
+- System design
+- Backend architecture
+- Production AI systems and LLM applications
+
+---
+
+## 📌 Featured Projects
+
+I'm currently building and documenting projects focused on backend engineering, distributed systems, messaging, and AI applications.
+
+---
+
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whateverwill)
 
