@@ -1,12 +1,12 @@
 # Hi, I'm Willian Tavares 👋
 
-### Software Engineer | Backend | Python & Node.js
+### Software Engineer | Backend | Python & Node.js | AI Engineering
 
 Software Engineer with **5+ years of experience** building backend systems, distributed applications, integrations, and AI-powered products.
 
-My work has involved **Python, Node.js, TypeScript, REST APIs, microservices, asynchronous processing, databases, cloud infrastructure, and system design**.
+My experience spans **Software Engineering and AI Engineering**, with a strong focus on **Python, Node.js, TypeScript, REST APIs, microservices, asynchronous processing, databases, cloud infrastructure, and AI applications**.
 
-I have worked on systems serving **2M+ users** and platforms managing **R$10M+ in monthly advertising spend**, as well as AI applications integrating multiple LLM providers.
+I've worked on systems serving **2M+ users** and platforms managing **R$10M+ in monthly advertising spend**, as well as AI products involving **LLMs, RAG, AI Agents, evaluation, and observability**.
 
 ---
 
@@ -14,46 +14,63 @@ I have worked on systems serving **2M+ users** and platforms managing **R$10M+ i
 
 ### AI Platform
 
+**Software Engineer**
+
 Software Engineer working on an AI platform serving **2M+ users**.
 
+- Led the technical direction of a **Blade/JavaScript → React + Jotai** migration, defining architectural patterns, documenting decisions, and guiding other developers
 - Designed and implemented a **RAG-based memory system** from scratch
+- Reduced LLM inference costs by approximately **40%** through prompt compression and context optimization, supported by evaluation pipelines and quality gates
+- Reduced latency of critical REST endpoints by approximately **30%** through query optimization, indexing, and elimination of N+1 queries
 - Built integrations with **OpenAI, Gemini, Grok, and DeepSeek**
 - Designed multi-provider AI architectures and abstractions
-- Optimized SQL queries operating on **6M+ records**
-- Reduced conversation context size by **40%** while maintaining relevance
-- Designed and executed a high-risk **Stripe account migration** with a generic payment gateway abstraction
-- Led the technical direction of a **Blade/JavaScript → React + Jotai** migration
 - Developed an **AI Agent marketplace** with monetization and Stripe integration
-- Built automated testing workflows with **Cypress and GitHub Actions**
+- Designed and executed a high-risk **Stripe account migration** in production without downtime
+- Worked with **AI Agents, Pydantic AI, LangGraph, Phoenix, LangSmith, Evals, tracing, and observability**
 
 ### Marketing Automation Platform
 
-Software Engineer working on backend systems and distributed applications for enterprise marketing automation.
+**Software Engineer**
 
-- Architected an **asynchronous reporting engine** using Node.js/NestJS, BullMQ, Redis and MongoDB
-- Designed dependency-aware parallel processing for large-scale reporting workloads
-- Built microservices integrating **Google Ads, Meta Ads, and VTEX**
-- Designed adapter-based architectures for integrating different client data sources
-- Developed automated optimization workflows using **Python and Celery**
-- Migrated **10+ services** from AWS/Kubernetes-based infrastructure to **GCP and Cloud Run**
-- Redesigned deployments across multiple services and environments using **Terraform**
-- Worked on systems managing **R$10M+ in monthly advertising spend**
+Software Engineer working on backend systems and distributed applications for an enterprise marketing automation platform.
+
+- Architected an **asynchronous reporting engine** using Node.js/NestJS, BullMQ, Redis, and MongoDB, enabling progressive delivery and improved resilience for large accounts
+- Developed a platform for automated budget management and optimization responsible for **R$10M+ in monthly advertising spend**
+- Migrated **10+ services** from AWS/Kubernetes to **GCP and Cloud Run**, completing the transition without downtime
+- Identified and resolved an architectural bottleneck in campaign clustering, reducing customization delivery time from **weeks to 4–5 days**
+- Designed adapter-based architectures for integrating data sources and metrics from **Google Ads and Facebook Ads**
+- Implemented infrastructure as code with **Terraform**, adapting CI/CD, observability, and networking for GCP
+
+### Marketing Automation Platform
+
+**Software Developer — Contractor**
+
+Worked across the frontend and backend of a SaaS platform for paid media analytics, centralizing metrics from multiple advertising channels.
+
+- Evolved and maintained the platform while delivering new features for **multi-channel analytics, reporting, and account segmentation**
+- Optimized Django report generation by replacing sequential workflows with parallel processing across channels, reports, and paginated data
+- Rebuilt the campaign table using **React, TypeScript, react-table, and a Storybook-based component library**, removing limitations from the previous implementation and enabling new customizations
+- Developed new integrations, including **VTEX**, and resolved metric inconsistencies related to platform-specific behavior such as Facebook conversion windows
 
 ---
 
 ## 🏗️ Areas of Interest
 
+- Software Engineering
 - Backend Engineering
-- Distributed Systems
+- AI Engineering
 - Software Architecture
+- Distributed Systems
 - Asynchronous Processing
 - APIs & Microservices
+- Generative AI
+- LLM Applications
+- AI Agents & Tool Calling
+- Retrieval-Augmented Generation
+- AI Evaluation & Evals
+- Observability & Tracing
 - Databases & Data Pipelines
 - Cloud Infrastructure
-- Generative AI
-- Large Language Models
-- Retrieval-Augmented Generation
-- AI Agents
 
 ---
 
@@ -65,11 +82,11 @@ Software Engineer working on backend systems and distributed applications for en
 
 ### Backend
 
-`Node.js` · `NestJS` · `FastAPI` · `Django` · `Laravel` · `REST APIs`
+`Python` · `Node.js` · `NestJS` · `FastAPI` · `Django` · `Laravel` · `REST APIs`
 
 ### Architecture & Distributed Systems
 
-`Microservices` · `Distributed Systems` · `Asynchronous Processing` · `Message Queues` · `System Design`
+`Microservices` · `Distributed Systems` · `System Design` · `Asynchronous Processing` · `Message Queues` · `Event-Driven Architecture`
 
 ### Databases & Data
 
@@ -83,30 +100,35 @@ Software Engineer working on backend systems and distributed applications for en
 
 `BullMQ` · `Redis` · `Kafka`
 
-### AI
+### AI Engineering
 
-`LLMs` · `RAG` · `AI Agents` · `Embeddings` · `OpenAI` · `Gemini`
+`LLMs` · `Generative AI` · `AI Agents` · `Tool Calling` · `RAG` · `Embeddings` · `Prompt Engineering` · `Pydantic AI` · `LangGraph` · `LangChain`
 
-### Testing & Observability
+### Evaluation & Observability
 
-`Unit Testing` · `E2E Testing` · `Cypress` · `Sentry` · `Observability`
+`Evals` · `Phoenix` · `LangSmith` · `Tracing` · `Observability` · `Quality Gates`
+
+### Testing
+
+`Unit Testing` · `Integration Testing` · `E2E Testing` · `Cypress`
 
 ---
 
 ## 📚 Currently Exploring
 
+- AI Agents and agent architectures
+- Tool Calling and MCP
+- Agent evaluation and quality engineering
+- RAG systems and retrieval strategies
+- Observability and tracing for AI applications
 - Distributed systems and messaging patterns
-- Message brokers and event streaming
-- Kafka
-- System design
-- Backend architecture
-- Production AI systems and LLM applications
+- System design and backend architecture
 
 ---
 
 ## 📌 Featured Projects
 
-I'm currently building and documenting projects focused on backend engineering, distributed systems, messaging, and AI applications.
+I'm currently building and documenting projects focused on **AI Engineering, backend systems, distributed architectures, agents, RAG, and evaluation**.
 
 ---
 
